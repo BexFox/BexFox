@@ -50,9 +50,27 @@
 </table>
 <br /><br />
 
-<h2>My projects</h2>
+
+
+<h2>My projects(Prepare)</h2>
 <table>
+  <tbody>
+    <tr>
+      <td>
+          <img align="center" src="https://raw.githubusercontent.com/BexFox/BexFox/main/React.png" width="300" alt-text="React Course">
+      </td>
+      <td>
+          <img alin="center" src="
+      </td>
+      <td>
+        
+      </td>
+    </tr>
+  </tbody>
+</table>
   
+
+
 
 <br /><br /><br />
 
